@@ -15599,7 +15599,7 @@
       ]
     },
     "Xamarin.Forms/2.2.0.4-pre1": {
-      "sha512": "3iBxqrexBaqktT26DIooVTXrh+RGcBzM4joQr2kifi4VkEs/3FOVeu7djMSt9+HpfW5NRPbEDTMdXkNSsNI0AA==",
+      "sha512": "pw0UXtazo3+FKsy5fd7RyJA1krB5lQDpmqE3BARm1w6G3RvJE8ktnR58zlziVUx68ABk3Gz7fVWwjwqT522WgQ==",
       "type": "package",
       "files": [
         "Xamarin.Forms.2.2.0.4-pre1.nupkg.sha512",
@@ -15726,7 +15726,7 @@
       ]
     },
     "Xamarin.Forms.Maps/2.2.0.4-pre1": {
-      "sha512": "wE1lJOedlyDTfNEfOQTZXDeT3udOgo0RMqtYkpUGWGbGYky/6n3RG9aUK+fLy/N1aWZcKqoAG7SlS5M+ez/UiQ==",
+      "sha512": "IopemM5JrPzCnyjT3/GLpsd1oN4gnRjyGndPwOPEltQDXJ2PTpirACWmkxOlH5mWEkvQzjzmsadY1S7bzMl9aw==",
       "type": "package",
       "files": [
         "Xamarin.Forms.Maps.2.2.0.4-pre1.nupkg.sha512",

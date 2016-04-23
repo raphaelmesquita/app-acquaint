@@ -40,6 +40,11 @@
     </AndroidStoreUncompressedFileExtensions>
     <MandroidI18n>
     </MandroidI18n>
+    <AndroidUseSharedRuntime>True</AndroidUseSharedRuntime>
+    <BundleAssemblies>False</BundleAssemblies>
+    <AndroidCreatePackagePerAbi>False</AndroidCreatePackagePerAbi>
+    <JavaMaximumHeapSize>1G</JavaMaximumHeapSize>
+    <AndroidEnableMultiDex>False</AndroidEnableMultiDex>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <DebugType>full</DebugType>
